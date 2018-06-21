@@ -3,3 +3,4 @@
 def countdown
   put "yo mom"
 end
+countdown
